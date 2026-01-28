@@ -1,24 +1,33 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" width="33%">
+      <img src="logo_ngeo.png" alt="Logo NGEO" height="100">
+    </td>
+    <td align="center" width="34%">
+      <h1 align="center">NGEO/IDEFLOR-Bio</h1>
+      <p align="center"><b>Espaço de Colaboração e Desenvolvimento</b></p>
+    </td>
+    <td align="right" width="33%">
+      <img src="logo-Ideflor-bio.png" alt="Logo IDEFLOR-Bio" height="100">
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+Esta organização constitui o ambiente de trabalho institucional do <b>NGEO/IDEFLOR-Bio</b> no GitHub. Este espaço centraliza a governança de projetos, o desenvolvimento de scripts de automação e o versionamento de toda a documentação técnica produzida pelo Núcleo de Geotecnologias, assegurando a padronização e a rastreabilidade dos ativos digitais.
+</p>
+
+---
+
 <div align="center">
-  <img src="logo_ngeo.png" alt="Logo NGEO" height="100">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="logo-Ideflor-bio.png" alt="Logo IDEFLOR-Bio" height="100">
-</div>
-
----
-
-# NGEO/IDEFLOR-Bio
-
-**Espaço de Colaboração e Desenvolvimento**
-
----
-
-Esta organização constitui o ambiente de trabalho institucional do NGEO/IDEFLOR-Bio no GitHub. Este espaço centraliza a governança de projetos, o desenvolvimento de scripts de automação e o versionamento de toda a documentação técnica produzida pelo Núcleo de Geotecnologias, assegurando a padronização e a rastreabilidade dos ativos digitais
-
----
 
 > **Bem-vindo(a), Visitante!**
 > 
-> Você chegou ao espaço de colaboração do **Núcleo de Geotecnologias (NGEO)** do **IDEFLOR-Bio**. Se você não é membro da equipe, confira nossos [repositórios públicos](https://github.com/orgs/NGEO-IDEFLOR-Bio/repositories) e a documentação de cada projeto!
+> Você chegou ao espaço de colaboração do **Núcleo de Geotecnologias (NGEO)** do **IDEFLOR-Bio**. Se você não é membro da equipe, confira nossos [repositórios públicos](https://github.com/orgs/NGEO-IDEFLOR-Bio/repositories) e a documentação de cada projeto.
+
+</div>
 
 ---
 
@@ -26,9 +35,7 @@ Esta organização constitui o ambiente de trabalho institucional do NGEO/IDEFLO
 
 A equipe do Núcleo de Geotecnologias (NGEO) é composta pelos seguintes membros:
 
-<div align="center">
-
-| Nome | Função / Cargo |
+| Nome | Cargo / Função |
 | :--- | :--- |
 | **Samuel Santos** | Coordenador |
 | **Elberth Sales** | Analista Ambiental |
@@ -37,6 +44,12 @@ A equipe do Núcleo de Geotecnologias (NGEO) é composta pelos seguintes membros
 | **Mônica Dias** | Estagiária |
 | **Mateus Dias** | Técnico Administrativo |
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/orgs/NGEO-IDEFLOR-Bio/repositories">
+    <b>Acessar Repositórios da Organização</b>
+  </a>
 </div>
 
 ---
