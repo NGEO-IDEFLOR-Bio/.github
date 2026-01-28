@@ -1,6 +1,22 @@
-# NGEO/IDEFLOR-Bio: Espaço de Colaboração e Desenvolvimento
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 20px 0; margin-bottom: 20px;">
+  <img src="logo_ngeo.png" width="120" alt="Logo NGEO">
+  <img src="logo-Ideflor-bio.png" width="120" alt="Logo IDEFLOR-Bio">
+</div>
+
+---
+
+<h1 style="text-align: center; margin: 20px 0; font-size: 36px;">NGEO/IDEFLOR-Bio</h1>
+<p style="text-align: center; color: #666; font-size: 16px; margin-bottom: 20px;">Espaço de Colaboração e Desenvolvimento</p>
+
+---
 
 Esta organização constitui o ambiente de trabalho institucional do NGEO/IDEFLOR-Bio no GitHub. Este espaço centraliza a governança de projetos, o desenvolvimento de scripts de automação e o versionamento de toda a documentação técnica produzida pelo Núcleo de Geotecnologias, assegurando a padronização e a rastreabilidade dos ativos digitais
+
+---
+
+> **Bem-vindo(a), Visitante!**
+> 
+> Você chegou ao espaço de colaboração do **Núcleo de Geotecnologias (NGEO)** do **IDEFLOR-Bio**. Se você não é membro da equipe, confira nossos [repositórios públicos](https://github.com/orgs/NGEO-IDEFLOR-Bio/repositories) e a documentação de cada projeto!
 
 ---
 
@@ -8,8 +24,10 @@ Esta organização constitui o ambiente de trabalho institucional do NGEO/IDEFLO
 
 A equipe do Núcleo de Geotecnologias (NGEO) é composta pelos seguintes membros:
 
+<div align="center">
+
 | Nome | Função / Cargo |
-| --- | --- |
+| :--- | :--- |
 | **Samuel Santos** | Coordenador |
 | **Elberth Sales** | Analista Ambiental |
 | **Marcus Vinícius** | Analista Ambiental |
@@ -17,14 +35,19 @@ A equipe do Núcleo de Geotecnologias (NGEO) é composta pelos seguintes membros
 | **Mônica Dias** | Estagiária |
 | **Mateus Dias** | Técnico Administrativo |
 
+</div>
+
 ---
 
 ## 2. Acesso aos Projetos e Repositórios
 
 Diferente dos repositórios de projeto, este espaço organizacional não armazena ativos de código, scripts ou bases de dados. Cada iniciativa possui seu próprio repositório dedicado, onde o versionamento é realizado de forma isolada, respeitando os níveis de visibilidade (público ou privado) conforme a sensibilidade dos dados.
 
-Acesse a lista completa de projetos em:
+<div align="center">
+
 **[Repositórios da Organização NGEO-IDEFLOR-Bio](https://github.com/orgs/NGEO-IDEFLOR-Bio/repositories)**
+
+</div>
 
 ---
 
@@ -41,10 +64,12 @@ Para assegurar a integridade das automações e a proteção dos dados instituci
 
 As mensagens de commit devem ser redigidas de forma técnica, impessoal e descrever objetivamente a alteração:
 
-* `feat`: Inclusão de nova funcionalidade ou script de automação.
-* `fix`: Correção de erros lógicos ou bugs em scripts existentes.
-* `docs`: Atualizações exclusivas em arquivos de documentação e manuais.
-* `refactor`: Melhorias na estrutura do código que não alteram sua funcionalidade.
+| Tipo | Descrição |
+| :--- | :--- |
+| `feat` | Inclusão de nova funcionalidade ou script de automação |
+| `fix` | Correção de erros lógicos ou bugs em scripts existentes |
+| `docs` | Atualizações exclusivas em arquivos de documentação e manuais |
+| `refactor` | Melhorias na estrutura do código que não alteram sua funcionalidade |
 
 ---
 
@@ -56,7 +81,3 @@ Cada repositório dentro desta organização deve conter seu próprio arquivo `R
 2. **Pré-requisitos de software** (versões de Python, extensões do QGIS, dependências de banco de dados).
 3. **Instruções de configuração e execução.**
 4. **Dicionário de dados** (para scripts de manipulação de tabelas).
-
----
-
-Gostaria que eu elaborasse um **template padrão de README** para ser replicado nos novos repositórios de projetos de automação da equipe?
