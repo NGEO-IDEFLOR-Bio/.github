@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center; gap: 40px; align-items: center; padding: 20px 0; margin-bottom: 20px;">
-  <img src="../logo_ngeo.png" alt="Logo NGEO" style="height: 100px; width: auto;">
-  <img src="../logo-Ideflor-bio.png" alt="Logo IDEFLOR-Bio" style="height: 100px; width: auto;">
+  <img src="logo_ngeo.png" alt="Logo NGEO" style="height: 100px; width: auto;">
+  <img src="logo-Ideflor-bio.png" alt="Logo IDEFLOR-Bio" style="height: 100px; width: auto;">
 </div>
 
 <div style="height: 3px; background: linear-gradient(to right, #2d7a3e); margin-bottom: 20px;"></div>
